@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Rams Editor">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#1b2640"/></linearGradient>
+<linearGradient id="acc" x1="0" y1="0" x2="0.6" y2="0" spreadMethod="reflect"><stop offset="0" stop-color="#38bdf8"/><stop offset="0.5" stop-color="#818cf8"/><stop offset="1" stop-color="#f472b6"/><animateTransform attributeName="gradientTransform" type="translate" values="0 0;0.6 0;0 0" dur="8s" repeatCount="indefinite"/></linearGradient>
+<clipPath id="k0"><rect class="c0" x="118" y="128" width="0" height="40"/></clipPath>
+<clipPath id="k1"><rect class="c1" x="118" y="128" width="0" height="40"/></clipPath>
+<clipPath id="k2"><rect class="c2" x="118" y="128" width="0" height="40"/></clipPath>
+<clipPath id="k3"><rect class="c3" x="118" y="128" width="0" height="40"/></clipPath>
+</defs>
+<style>
+.title{font:800 58px 'Segoe UI',Roboto,Helvetica,Arial,sans-serif;animation:rise 1s ease-out both}
+.mono{font:26px 'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+.blink{animation:blink 1s steps(1) infinite}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+@keyframes blink{50%{opacity:0}}
+@keyframes t0{0%,0.0%{width:0;animation-timing-function:steps(19,end)}7.125%{width:296.4px;animation-timing-function:step-end}16.125%{width:296.4px}16.375%,100%{width:0}}.c0{animation:t0 20.0s infinite}
+@keyframes t1{0%,25.0%{width:0;animation-timing-function:steps(22,end)}33.25%{width:343.2px;animation-timing-function:step-end}42.25%{width:343.2px}42.5%,100%{width:0}}.c1{animation:t1 20.0s infinite}
+@keyframes t2{0%,50.0%{width:0;animation-timing-function:steps(20,end)}57.5%{width:312.0px;animation-timing-function:step-end}66.5%{width:312.0px}66.75%,100%{width:0}}.c2{animation:t2 20.0s infinite}
+@keyframes t3{0%,75.0%{width:0;animation-timing-function:steps(17,end)}81.375%{width:265.2px;animation-timing-function:step-end}90.375%{width:265.2px}90.625%,100%{width:0}}.c3{animation:t3 20.0s infinite}
+@keyframes cur{0%{transform:translateX(0)}0.0%{transform:translateX(0);animation-timing-function:steps(19,end)}7.125%{transform:translateX(296.4px);animation-timing-function:step-end}16.125%{transform:translateX(296.4px)}16.375%{transform:translateX(0)}25.0%{transform:translateX(0);animation-timing-function:steps(22,end)}33.25%{transform:translateX(343.2px);animation-timing-function:step-end}42.25%{transform:translateX(343.2px)}42.5%{transform:translateX(0)}50.0%{transform:translateX(0);animation-timing-function:steps(20,end)}57.5%{transform:translateX(312.0px);animation-timing-function:step-end}66.5%{transform:translateX(312.0px)}66.75%{transform:translateX(0)}75.0%{transform:translateX(0);animation-timing-function:steps(17,end)}81.375%{transform:translateX(265.2px);animation-timing-function:step-end}90.375%{transform:translateX(265.2px)}90.625%{transform:translateX(0)}100%{transform:translateX(0)}}.cm{animation:cur 20.0s infinite}
+</style>
+<rect width="900" height="220" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="898" height="218" rx="21" fill="none" stroke="#334155" stroke-width="2"/>
+<circle cx="97" cy="140" r="2" fill="#38bdf8" opacity=".35"><animate attributeName="cy" values="140;130;140" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".15;.55;.15" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="810" cy="60" r="3" fill="#38bdf8" opacity=".35"><animate attributeName="cy" values="60;50;60" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values=".15;.55;.15" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="700" cy="180" r="2.5" fill="#38bdf8" opacity=".35"><animate attributeName="cy" values="180;168;180" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".15;.55;.15" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="250" cy="195" r="1.5" fill="#38bdf8" opacity=".35"><animate attributeName="cy" values="195;187;195" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".15;.55;.15" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="560" cy="30" r="2" fill="#38bdf8" opacity=".35"><animate attributeName="cy" values="30;20;30" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".15;.55;.15" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="34" cy="30" r="6" fill="#ff5f57"/><circle cx="56" cy="30" r="6" fill="#febc2e"/><circle cx="78" cy="30" r="6" fill="#28c840"/>
+<text x="450" y="105" text-anchor="middle" class="title" fill="url(#acc)">Rams Editor</text>
+<text x="80" y="157" class="mono" fill="#38bdf8">&gt;</text>
+<text x="118" y="157" class="mono" fill="#e2e8f0" textLength="296.4" lengthAdjust="spacing" clip-path="url(#k0)">Code on your phone.</text>
+<text x="118" y="157" class="mono" fill="#e2e8f0" textLength="343.2" lengthAdjust="spacing" clip-path="url(#k1)">Live preview built in.</text>
+<text x="118" y="157" class="mono" fill="#e2e8f0" textLength="312.0" lengthAdjust="spacing" clip-path="url(#k2)">Commit, push, clone.</text>
+<text x="118" y="157" class="mono" fill="#e2e8f0" textLength="265.2" lengthAdjust="spacing" clip-path="url(#k3)">No laptop needed.</text>
+<g class="cm"><rect class="blink" x="120" y="136" width="11" height="26" rx="2" fill="#38bdf8"/></g>
+</svg>
