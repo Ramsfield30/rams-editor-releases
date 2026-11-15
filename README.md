@@ -31,17 +31,13 @@
 <tr>
 <td width="50%" valign="top">
 
-<b style="font-size: 1.17em; display: block; margin-bottom: 8px;">
-  <img src="https://img.shields.io/badge/Write-38bdf8?style=flat-square&logo=pencil&logoColor=white" alt="Write">
-</b>
+<img src="https://img.shields.io/badge/Write-38bdf8?style=flat-square&logo=pencil&logoColor=white" alt="Write" style="display: block; margin-bottom: 8px;">
 Syntax colors, undo and redo, find and replace with every match highlighted, indent guides, and one-tap line tools: comment, duplicate, move, indent.
 
 </td>
 <td width="50%" valign="top">
 
-<b style="font-size: 1.17em; display: block; margin-bottom: 8px;">
-  <img src="https://img.shields.io/badge/Preview-818cf8?style=flat-square&logo=smartphone&logoColor=white" alt="Preview">
-</b>
+<img src="https://img.shields.io/badge/Preview-818cf8?style=flat-square&logo=smartphone&logoColor=white" alt="Preview" style="display: block; margin-bottom: 8px;">
 A floating phone window that follows your page. Or go full screen, try the device emulator, or open it in your browser.
 
 </td>
@@ -49,17 +45,13 @@ A floating phone window that follows your page. Or go full screen, try the devic
 <tr>
 <td width="50%" valign="top">
 
-<b style="font-size: 1.17em; display: block; margin-bottom: 8px;">
-  <img src="https://img.shields.io/badge/Type_less-f472b6?style=flat-square&logo=zap&logoColor=white" alt="Type less">
-</b>
+<img src="https://img.shields.io/badge/Type_less-f472b6?style=flat-square&logo=zap&logoColor=white" alt="Type less" style="display: block; margin-bottom: 8px;">
 Emmet shortcuts, smart suggestions, auto-closing tags, and your own snippet buttons.
 
 </td>
 <td width="50%" valign="top">
 
-<b style="font-size: 1.17em; display: block; margin-bottom: 8px;">
-  <img src="https://img.shields.io/badge/Git_built_in-4ade80?style=flat-square&logo=git&logoColor=white" alt="Git built in">
-</b>
+<img src="https://img.shields.io/badge/Git_built_in-4ade80?style=flat-square&logo=git&logoColor=white" alt="Git built in" style="display: block; margin-bottom: 8px;">
 Initialize, commit, push, pull and clone. Your token is saved once and works for every project.
 
 </td>
@@ -67,17 +59,13 @@ Initialize, commit, push, pull and clone. Your token is saved once and works for
 <tr>
 <td width="50%" valign="top">
 
-<b style="font-size: 1.17em; display: block; margin-bottom: 8px;">
-  <img src="https://img.shields.io/badge/Debug-38bdf8?style=flat-square&logo=terminal&logoColor=white" alt="Debug">
-</b>
+<img src="https://img.shields.io/badge/Debug-38bdf8?style=flat-square&logo=terminal&logoColor=white" alt="Debug" style="display: block; margin-bottom: 8px;">
 A live console shows your logs and errors right next to the preview.
 
 </td>
 <td width="50%" valign="top">
 
-<b style="font-size: 1.17em; display: block; margin-bottom: 8px;">
-  <img src="https://img.shields.io/badge/Stay_updated-818cf8?style=flat-square&logo=refresh&logoColor=white" alt="Stay updated">
-</b>
+<img src="https://img.shields.io/badge/Stay_updated-818cf8?style=flat-square&logo=refresh&logoColor=white" alt="Stay updated" style="display: block; margin-bottom: 8px;">
 The app tells you when a new version is ready and installs it in a couple of taps.
 
 </td>
