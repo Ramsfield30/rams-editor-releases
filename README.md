@@ -31,13 +31,19 @@
 <tr>
 <td width="50%" valign="top">
 
-### ✏️ Write
+<b style="font-size: 1.17em;">
+  <img src="https://api.iconify.design/lucide:pencil.svg?color=%2338bdf8" width="20" height="20" style="vertical-align: middle; margin-right: 6px;"> 
+  Write
+</b><br><br>
 Syntax colors, undo and redo, find and replace with every match highlighted, indent guides, and one-tap line tools: comment, duplicate, move, indent.
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 Preview
+<b style="font-size: 1.17em;">
+  <img src="https://api.iconify.design/lucide:smartphone.svg?color=%23818cf8" width="20" height="20" style="vertical-align: middle; margin-right: 6px;"> 
+  Preview
+</b><br><br>
 A floating phone window that follows your page. Or go full screen, try the device emulator, or open it in your browser.
 
 </td>
@@ -45,13 +51,19 @@ A floating phone window that follows your page. Or go full screen, try the devic
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Type less
+<b style="font-size: 1.17em;">
+  <img src="https://api.iconify.design/lucide:zap.svg?color=%23f472b6" width="20" height="20" style="vertical-align: middle; margin-right: 6px;"> 
+  Type less
+</b><br><br>
 Emmet shortcuts, smart suggestions, auto-closing tags, and your own snippet buttons.
 
 </td>
 <td width="50%" valign="top">
 
-### 🌿 Git, built in
+<b style="font-size: 1.17em;">
+  <img src="https://api.iconify.design/lucide:git-branch.svg?color=%234ade80" width="20" height="20" style="vertical-align: middle; margin-right: 6px;"> 
+  Git, built in
+</b><br><br>
 Initialize, commit, push, pull and clone. Your token is saved once and works for every project.
 
 </td>
@@ -59,13 +71,19 @@ Initialize, commit, push, pull and clone. Your token is saved once and works for
 <tr>
 <td width="50%" valign="top">
 
-### 🧪 Debug
+<b style="font-size: 1.17em;">
+  <img src="https://api.iconify.design/lucide:terminal.svg?color=%2338bdf8" width="20" height="20" style="vertical-align: middle; margin-right: 6px;"> 
+  Debug
+</b><br><br>
 A live console shows your logs and errors right next to the preview.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔄 Stay updated
+<b style="font-size: 1.17em;">
+  <img src="https://api.iconify.design/lucide:refresh-cw.svg?color=%23818cf8" width="20" height="20" style="vertical-align: middle; margin-right: 6px;"> 
+  Stay updated
+</b><br><br>
 The app tells you when a new version is ready and installs it in a couple of taps.
 
 </td>
