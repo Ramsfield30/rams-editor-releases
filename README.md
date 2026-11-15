@@ -27,25 +27,44 @@
 
 <br>
 
-### <img src="https://img.shields.io/badge/-38bdf8?style=flat-square" width="12" height="12" style="vertical-align: middle; margin-right: 6px;"> Write
-Syntax colors, undo and redo, find and replace with every match highlighted, indent guides, and one-tap line tools: comment, duplicate, move, indent.
-
-### <img src="https://img.shields.io/badge/-818cf8?style=flat-square" width="12" height="12" style="vertical-align: middle; margin-right: 6px;"> Preview
-A floating phone window that follows your page. Or go full screen, try the device emulator, or open it in your browser.
-
-### <img src="https://img.shields.io/badge/-f472b6?style=flat-square" width="12" height="12" style="vertical-align: middle; margin-right: 6px;"> Type less
-Emmet shortcuts, smart suggestions, auto-closing tags, and your own snippet buttons.
-
-### <img src="https://img.shields.io/badge/-4ade80?style=flat-square" width="12" height="12" style="vertical-align: middle; margin-right: 6px;"> Git, built in
-Initialize, commit, push, pull and clone. Your token is saved once and works for every project.
-
-### <img src="https://img.shields.io/badge/-38bdf8?style=flat-square" width="12" height="12" style="vertical-align: middle; margin-right: 6px;"> Debug
-A live console shows your logs and errors right next to the preview.
-
-### <img src="https://img.shields.io/badge/-818cf8?style=flat-square" width="12" height="12" style="vertical-align: middle; margin-right: 6px;"> Stay updated
-The app tells you when a new version is ready and installs it in a couple of taps.
-
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
+  <img src="https://img.shields.io/badge/Write-38bdf8?style=flat-square&logo=pencil&logoColor=white" alt="Write" height="24"><br><br>
+  <b style="font-size: 1.17em;">Write</b><br>
+  Syntax colors, undo and redo, find and replace with every match highlighted, indent guides, and one-tap line tools: comment, duplicate, move, indent.
+</td>
+<td width="50%" valign="top">
+  <img src="https://img.shields.io/badge/Preview-818cf8?style=flat-square&logo=smartphone&logoColor=white" alt="Preview" height="24"><br><br>
+  <b style="font-size: 1.17em;">Preview</b><br>
+  A floating phone window that follows your page. Or go full screen, try the device emulator, or open it in your browser.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <img src="https://img.shields.io/badge/Type_less-f472b6?style=flat-square&logo=zap&logoColor=white" alt="Type less" height="24"><br><br>
+  <b style="font-size: 1.17em;">Type less</b><br>
+  Emmet shortcuts, smart suggestions, auto-closing tags, and your own snippet buttons.
+</td>
+<td width="50%" valign="top">
+  <img src="https://img.shields.io/badge/Git_built_in-4ade80?style=flat-square&logo=git&logoColor=white" alt="Git built in" height="24"><br><br>
+  <b style="font-size: 1.17em;">Git, built in</b><br>
+  Initialize, commit, push, pull and clone. Your token is saved once and works for every project.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <img src="https://img.shields.io/badge/Debug-38bdf8?style=flat-square&logo=terminal&logoColor=white" alt="Debug" height="24"><br><br>
+  <b style="font-size: 1.17em;">Debug</b><br>
+  A live console shows your logs and errors right next to the preview.
+</td>
+<td width="50%" valign="top">
+  <img src="https://img.shields.io/badge/Stay_updated-818cf8?style=flat-square&logo=refresh&logoColor=white" alt="Stay updated" height="24"><br><br>
+  <b style="font-size: 1.17em;">Stay updated</b><br>
+  The app tells you when a new version is ready and installs it in a couple of taps.
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="divider.svg" width="100%" alt="">
