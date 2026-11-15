@@ -31,19 +31,17 @@
 <tr>
 <td width="50%" valign="top">
 
-<div style="font-size: 1.2em; font-weight: bold; margin-bottom: 8px; display: flex; align-items: center;">
-  <img src="https://cdn.simpleicons.org/pencil/38bdf8" width="22" height="22" style="margin-right: 8px;" alt="Write Icon">
-  Write
-</div>
+<b style="font-size: 1.17em; display: block; margin-bottom: 8px;">
+  <img src="https://img.shields.io/badge/Write-38bdf8?style=flat-square&logo=pencil&logoColor=white" alt="Write">
+</b>
 Syntax colors, undo and redo, find and replace with every match highlighted, indent guides, and one-tap line tools: comment, duplicate, move, indent.
 
 </td>
 <td width="50%" valign="top">
 
-<div style="font-size: 1.2em; font-weight: bold; margin-bottom: 8px; display: flex; align-items: center;">
-  <img src="https://cdn.simpleicons.org/smartphone/818cf8" width="22" height="22" style="margin-right: 8px;" alt="Preview Icon">
-  Preview
-</div>
+<b style="font-size: 1.17em; display: block; margin-bottom: 8px;">
+  <img src="https://img.shields.io/badge/Preview-818cf8?style=flat-square&logo=smartphone&logoColor=white" alt="Preview">
+</b>
 A floating phone window that follows your page. Or go full screen, try the device emulator, or open it in your browser.
 
 </td>
@@ -51,19 +49,17 @@ A floating phone window that follows your page. Or go full screen, try the devic
 <tr>
 <td width="50%" valign="top">
 
-<div style="font-size: 1.2em; font-weight: bold; margin-bottom: 8px; display: flex; align-items: center;">
-  <img src="https://cdn.simpleicons.org/lightning/f472b6" width="22" height="22" style="margin-right: 8px;" alt="Type less Icon">
-  Type less
-</div>
+<b style="font-size: 1.17em; display: block; margin-bottom: 8px;">
+  <img src="https://img.shields.io/badge/Type_less-f472b6?style=flat-square&logo=zap&logoColor=white" alt="Type less">
+</b>
 Emmet shortcuts, smart suggestions, auto-closing tags, and your own snippet buttons.
 
 </td>
 <td width="50%" valign="top">
 
-<div style="font-size: 1.2em; font-weight: bold; margin-bottom: 8px; display: flex; align-items: center;">
-  <img src="https://cdn.simpleicons.org/git/4ade80" width="22" height="22" style="margin-right: 8px;" alt="Git Icon">
-  Git, built in
-</div>
+<b style="font-size: 1.17em; display: block; margin-bottom: 8px;">
+  <img src="https://img.shields.io/badge/Git_built_in-4ade80?style=flat-square&logo=git&logoColor=white" alt="Git built in">
+</b>
 Initialize, commit, push, pull and clone. Your token is saved once and works for every project.
 
 </td>
@@ -71,19 +67,17 @@ Initialize, commit, push, pull and clone. Your token is saved once and works for
 <tr>
 <td width="50%" valign="top">
 
-<div style="font-size: 1.2em; font-weight: bold; margin-bottom: 8px; display: flex; align-items: center;">
-  <img src="https://cdn.simpleicons.org/gnubash/38bdf8" width="22" height="22" style="margin-right: 8px;" alt="Debug Icon">
-  Debug
-</div>
+<b style="font-size: 1.17em; display: block; margin-bottom: 8px;">
+  <img src="https://img.shields.io/badge/Debug-38bdf8?style=flat-square&logo=terminal&logoColor=white" alt="Debug">
+</b>
 A live console shows your logs and errors right next to the preview.
 
 </td>
 <td width="50%" valign="top">
 
-<div style="font-size: 1.2em; font-weight: bold; margin-bottom: 8px; display: flex; align-items: center;">
-  <img src="https://cdn.simpleicons.org/refresh/818cf8" width="22" height="22" style="margin-right: 8px;" alt="Stay updated Icon">
-  Stay updated
-</div>
+<b style="font-size: 1.17em; display: block; margin-bottom: 8px;">
+  <img src="https://img.shields.io/badge/Stay_updated-818cf8?style=flat-square&logo=refresh&logoColor=white" alt="Stay updated">
+</b>
 The app tells you when a new version is ready and installs it in a couple of taps.
 
 </td>
