@@ -30,50 +30,44 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>
-  <img src="https://api.iconify.design/lucide:pencil.svg?color=%2338bdf8" width="22" height="22" style="vertical-align: middle; margin-right: 6px;" alt="Write">
-  Write
-</h3>
+
+### ✏️ Write
 Syntax colors, undo and redo, find and replace with every match highlighted, indent guides, and one-tap line tools: comment, duplicate, move, indent.
+
 </td>
 <td width="50%" valign="top">
-<h3>
-  <img src="https://api.iconify.design/lucide:smartphone.svg?color=%23818cf8" width="22" height="22" style="vertical-align: middle; margin-right: 6px;" alt="Preview">
-  Preview
-</h3>
+
+### 📱 Preview
 A floating phone window that follows your page. Or go full screen, try the device emulator, or open it in your browser.
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>
-  <img src="https://api.iconify.design/lucide:zap.svg?color=%23f472b6" width="22" height="22" style="vertical-align: middle; margin-right: 6px;" alt="Type less">
-  Type less
-</h3>
+
+### ⚡ Type less
 Emmet shortcuts, smart suggestions, auto-closing tags, and your own snippet buttons.
+
 </td>
 <td width="50%" valign="top">
-<h3>
-  <img src="https://api.iconify.design/lucide:git-branch.svg?color=%234ade80" width="22" height="22" style="vertical-align: middle; margin-right: 6px;" alt="Git">
-  Git, built in
-</h3>
+
+### 🌿 Git, built in
 Initialize, commit, push, pull and clone. Your token is saved once and works for every project.
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>
-  <img src="https://api.iconify.design/lucide:terminal.svg?color=%2338bdf8" width="22" height="22" style="vertical-align: middle; margin-right: 6px;" alt="Debug">
-  Debug
-</h3>
+
+### 🧪 Debug
 A live console shows your logs and errors right next to the preview.
+
 </td>
 <td width="50%" valign="top">
-<h3>
-  <img src="https://api.iconify.design/lucide:refresh-cw.svg?color=%23818cf8" width="22" height="22" style="vertical-align: middle; margin-right: 6px;" alt="Stay updated">
-  Stay updated
-</h3>
+
+### 🔄 Stay updated
 The app tells you when a new version is ready and installs it in a couple of taps.
+
 </td>
 </tr>
 </table>
@@ -144,9 +138,9 @@ Not yet. This page only hosts the downloads.
 <p align="center">
   <sub>Questions or ideas? Reach out!</sub><br><br>
   <a href="https://wa.me/2349068957544">
-    <img src="https://api.iconify.design/simple-icons:whatsapp.svg?color=%2325D366" width="24" height="24" alt="WhatsApp" style="vertical-align: middle; margin: 0 8px;">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   <a href="https://t.me/Ramsfield30">
-    <img src="https://api.iconify.design/simple-icons:telegram.svg?color=%2326A5E4" width="24" height="24" alt="Telegram" style="vertical-align: middle; margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
