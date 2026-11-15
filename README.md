@@ -31,19 +31,19 @@
 <tr>
 <td width="50%" valign="top">
 
-<b style="font-size: 1.17em;">
-  <img src="https://api.iconify.design/lucide:pencil.svg?color=%2338bdf8" width="20" height="20" style="vertical-align: middle; margin-right: 6px;"> 
+<div style="font-size: 1.2em; font-weight: bold; margin-bottom: 8px; display: flex; align-items: center;">
+  <img src="https://cdn.simpleicons.org/pencil/38bdf8" width="22" height="22" style="margin-right: 8px;" alt="Write Icon">
   Write
-</b><br><br>
+</div>
 Syntax colors, undo and redo, find and replace with every match highlighted, indent guides, and one-tap line tools: comment, duplicate, move, indent.
 
 </td>
 <td width="50%" valign="top">
 
-<b style="font-size: 1.17em;">
-  <img src="https://api.iconify.design/lucide:smartphone.svg?color=%23818cf8" width="20" height="20" style="vertical-align: middle; margin-right: 6px;"> 
+<div style="font-size: 1.2em; font-weight: bold; margin-bottom: 8px; display: flex; align-items: center;">
+  <img src="https://cdn.simpleicons.org/smartphone/818cf8" width="22" height="22" style="margin-right: 8px;" alt="Preview Icon">
   Preview
-</b><br><br>
+</div>
 A floating phone window that follows your page. Or go full screen, try the device emulator, or open it in your browser.
 
 </td>
@@ -51,19 +51,19 @@ A floating phone window that follows your page. Or go full screen, try the devic
 <tr>
 <td width="50%" valign="top">
 
-<b style="font-size: 1.17em;">
-  <img src="https://api.iconify.design/lucide:zap.svg?color=%23f472b6" width="20" height="20" style="vertical-align: middle; margin-right: 6px;"> 
+<div style="font-size: 1.2em; font-weight: bold; margin-bottom: 8px; display: flex; align-items: center;">
+  <img src="https://cdn.simpleicons.org/lightning/f472b6" width="22" height="22" style="margin-right: 8px;" alt="Type less Icon">
   Type less
-</b><br><br>
+</div>
 Emmet shortcuts, smart suggestions, auto-closing tags, and your own snippet buttons.
 
 </td>
 <td width="50%" valign="top">
 
-<b style="font-size: 1.17em;">
-  <img src="https://api.iconify.design/lucide:git-branch.svg?color=%234ade80" width="20" height="20" style="vertical-align: middle; margin-right: 6px;"> 
+<div style="font-size: 1.2em; font-weight: bold; margin-bottom: 8px; display: flex; align-items: center;">
+  <img src="https://cdn.simpleicons.org/git/4ade80" width="22" height="22" style="margin-right: 8px;" alt="Git Icon">
   Git, built in
-</b><br><br>
+</div>
 Initialize, commit, push, pull and clone. Your token is saved once and works for every project.
 
 </td>
@@ -71,19 +71,19 @@ Initialize, commit, push, pull and clone. Your token is saved once and works for
 <tr>
 <td width="50%" valign="top">
 
-<b style="font-size: 1.17em;">
-  <img src="https://api.iconify.design/lucide:terminal.svg?color=%2338bdf8" width="20" height="20" style="vertical-align: middle; margin-right: 6px;"> 
+<div style="font-size: 1.2em; font-weight: bold; margin-bottom: 8px; display: flex; align-items: center;">
+  <img src="https://cdn.simpleicons.org/gnubash/38bdf8" width="22" height="22" style="margin-right: 8px;" alt="Debug Icon">
   Debug
-</b><br><br>
+</div>
 A live console shows your logs and errors right next to the preview.
 
 </td>
 <td width="50%" valign="top">
 
-<b style="font-size: 1.17em;">
-  <img src="https://api.iconify.design/lucide:refresh-cw.svg?color=%23818cf8" width="20" height="20" style="vertical-align: middle; margin-right: 6px;"> 
+<div style="font-size: 1.2em; font-weight: bold; margin-bottom: 8px; display: flex; align-items: center;">
+  <img src="https://cdn.simpleicons.org/refresh/818cf8" width="22" height="22" style="margin-right: 8px;" alt="Stay updated Icon">
   Stay updated
-</b><br><br>
+</div>
 The app tells you when a new version is ready and installs it in a couple of taps.
 
 </td>
