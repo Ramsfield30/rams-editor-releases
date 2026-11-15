@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Rams Editor" width="100%">
+  <img src="banner.svg" alt="Rams Editor" width="100%">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="">
+  <img src="divider.svg" width="100%" alt="">
 </p>
 
 <h2 align="center">A real code editor that fits in your pocket</h2>
@@ -61,7 +61,8 @@ The app tells you when a new version is ready and installs it in a couple of tap
 </table>
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="">
+  <img src="
+  divider.svg" width="100%" alt="">
 </p>
 
 <!--
@@ -116,7 +117,7 @@ Not yet. This page only hosts the downloads.
 </details>
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="">
+  <img src="divider.svg" width="100%" alt="">
 </p>
 
 <p align="center">
