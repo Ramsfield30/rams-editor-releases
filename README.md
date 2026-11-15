@@ -61,8 +61,7 @@ The app tells you when a new version is ready and installs it in a couple of tap
 </table>
 
 <p align="center">
-  <img src="
-  divider.svg" width="100%" alt="">
+  <img src="divider.svg" width="100%" alt="">
 </p>
 
 <!--
